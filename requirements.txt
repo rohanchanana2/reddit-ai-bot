@@ -1,0 +1,4 @@
+groq
+schedule
+praw
+python-dotenv
